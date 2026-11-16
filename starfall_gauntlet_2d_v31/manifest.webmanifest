@@ -1,0 +1,18 @@
+{
+  "name": "Starfall Gauntlet",
+  "short_name": "Starfall",
+  "description": "Arcade space shooter: clear waves, break bosses, 400 stages on 20 planets, 50 starships to collect.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone", "minimal-ui"],
+  "orientation": "portrait",
+  "background_color": "#070817",
+  "theme_color": "#070817",
+  "categories": ["games"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
